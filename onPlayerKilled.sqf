@@ -3,9 +3,9 @@
 	- Executed locally when player is killed in mission.
 */
 ///////////////////////////////////////////////////////////////////////////////////////////////////
-
 quotes = [
 	"""all warfare is based""<br/>-Sun Tzu",
+	"""all warfare is based on MISSILE SYSTEMS!!!1!""<br/>-Contemporary Sun Tzu",
 	"""Man, seventy-five meters, front!""<br/>-SSgt. Adams",
 	"""I want to say 'I need to go to bed' but my mouth keeps<br/>fighting me and trying to say 'I need to kill myself'""<br/>-Remerv Keberb",
 	"""The man on top bunk [in] 2019 wanked hard<br/>every night and this bed fucking SHOOK""<br/>-message sharpied on the underside of a barracks bedframe",
@@ -15,7 +15,6 @@ quotes = [
 	"""they can it a tnak cuz yuouo tank in the ntsak""<br/>-Exabit",
 	"""I killed a lot of people ! I wish I could tell their wives myself !!""<br/>-Snubby",
 	"""you know it<br/>fuckifgn IDIOT mods""<br/>-Pilotguy",
-	"""Worse comes to worst I'm gonna turn into a catboy and purr down the LR until we all die""<br/>-Asortied",
 	"""In Spring, Man built a pillar. In Summer, another. Throughout Autumn they held, but in Winter one fell.""<br/>-Ancient Chinese Proverb",
 	"""Three, get in MY ASS""<br/>Honeybutter",
 	"""The Thompson is such a BBW gun, its so heavy""<br/>-Lelop15",
@@ -26,9 +25,33 @@ quotes = [
 	"""sorry my fat ass obliterated your tiny vehicle""<br/>-Diwako",
 	"""I keep killing myself for some reason""<br/>-Diwako",
 	"""I lived, bitch!""<br/>-SSgt. Adams (he didn't)",
-	"""It's killed enough tanks to be a tank. It vored the tanks and stole their powers.""<br/>-Dupeskupes",
+	"""It's killed enough tanks to be a tank. It vored the tanks and stole their powers.""<br/>-Dupeskupes on the Rooikat",
 	"""In one of your ops you need to dedicate a good portion of it to the misery of being Diwako. He's Mole whatever from the Simpsons""<br/>-Snubby",
-	"""These newkids don't know how to orbit they just post fursonas and scream""<br/>-Exabit"
+	"""These newkids don't know how to orbit they just post fursonas and scream""<br/>-Exabit",
+	"""I'm a big fan of ISIS""<br/>-Neo",
+	"""My BALLS have like a critical mass of SWEAT around them.""<br/>-Lelop",
+	"""from the infantry perspective, at least at the point of dismount, it was like waking up after a drunken fugue state left to pick up the pieces of a crimescene you're the culprit of but you already see the cop run at you with a tazer and there's a glass bottle in your ass.""<br/>-Remerv Keberb",
+	"""You can loot bananas off the gooners""<br/>-NPH",
+	"""I know not with what weapons WW3 will be fought, but WW4 will be fought with bhopping and counter strafing""<br/>-Albert Einstein",
+	"""Yo mama fart sooooo loud that she xbox live.""<br/>-Barkhan",
+	"""It's 3AM I can't be erect""<br/>-Croguy",
+	"""I’m a shitpisser""<br/>-MrDemonic",
+	"""This is platoon—uh—back on net. I’m killing myself, how’s it going?""<br/>-Neo",
+	"""i really want to get into the chinese military and start making missions for them""<br/>-Honeybutter",
+	"""All you know is that there's grains in an hourglass. You don't know how many, and you don't know how wide the hole is. All you can do is pray that it gets stuck.""<br/>-The Dirty Gun",
+	"""Those who are still alive are not dead""<br/>-Ancient Welsh Proverb",
+	"""I'm American, we just shoot our teachers!""<br/>-Neo",
+	"""FUCKING""<br/>-Croguy",
+	"""We're shooting dog penises at the enemy""<br/>-Lelop",
+	"""If a woodchuck chucks, I forgot how it goes.""<br/>-Croguy",
+	"""There aren't any hot women on my ceiling.""<br/>-Elix",
+	"""I like it LAAARGE, okay?""<br/>-ZeTooken",
+	"""feels good to stretch my balls out in #hall_of_fame again""<br/>-Exabit",
+	"""[object Object]""<br/>-Javascript",
+	"""So true Destroyox, my objective IS apartheid!""<br/>-Perondas",
+	"""I'm not putting words in your mouth, you're putting noises OUT of your mouth!""<br/>-Versten",
+	"""I'm trying to find more ways to piss on Keberb""<br/>-Exabit",
+	"""We're making progress""<br/>-Snubby"
 ];
 
 ["<t color='#ffffff' size='.8'>"+(selectRandom quotes)+"</t>",-1,-1,10,1,0,789] spawn BIS_fnc_dynamicText;
