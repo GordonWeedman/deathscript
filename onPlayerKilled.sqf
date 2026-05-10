@@ -51,7 +51,8 @@ quotes = [
 	"""So true Destroyox, my objective IS apartheid!""<br/>-Perondas",
 	"""I'm not putting words in your mouth, you're putting noises OUT of your mouth!""<br/>-Versten",
 	"""I'm trying to find more ways to piss on Keberb""<br/>-Exabit",
-	"""We're making progress""<br/>-Snubby"
+	"""We're making progress""<br/>-Snubby",
+	"""Smacking my desk just restarted my pc""<br/>-Lelop"
 ];
 
 ["<t color='#ffffff' size='.8'>"+(selectRandom quotes)+"</t>",-1,-1,10,1,0,789] spawn BIS_fnc_dynamicText;
